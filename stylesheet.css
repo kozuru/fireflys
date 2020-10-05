@@ -3,8 +3,9 @@ html, body {
 }
 
 body {
-  background: url(https://i.imgur.com/vyTzblq.jpg);
-  background-size: cover;
+  /*background: url(https://i.imgur.com/vyTzblq.jpg);
+  background-size: cover;*/
+  background:rgba(5,0,5,0.8)
 }
 
 .firefly {
